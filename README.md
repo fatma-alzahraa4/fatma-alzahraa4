@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fatma-alzahraa-khaled-35a584246" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="fatma alzahraa khaled" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/fatma-alzahraa-khaled-35a584246" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="fatma alzahraa khaled" height="30" width="30" /></a>
 </p>
 
 
