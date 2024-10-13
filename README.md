@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/fatma alzahraa khaled" target="blank"><img align="center" src="https://i.sstatic.net/gVE0j.png" alt="fatma alzahraa khaled" height="30" width="40" /></a>
+<a href="https://fb.com/fatma alzahraa khaled" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="fatma alzahraa khaled" height="30" width="40" /></a>
 </p>
 
 
