@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Fatma Alzharaa Khaled</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Back-End developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatma-alzahraa4&label=Profile%20views&color=0e75b6&style=flat" alt="fatma-alzahraa4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatma-alzahraa4" alt="fatma-alzahraa4" /></a> </p>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **NestJs**
 
-- 💬 Ask me about **html, css, js, react, sass, typescript and context**
+- 💬 Ask me about **JavaScript, typescript, NodeJs, ExpressJs, NestJs, Mongoose, MySQL, JWT, and Validation**
 
 - 📫 How to reach me **Kfatmaalzharaa@gmail.com**
 <p style="text-align: center; margin: 20px 0;"><img align="center" src="https://i.pinimg.com/originals/6b/57/87/6b5787ff3501f9a45afdade14b9d48bd.gif" style="width: 20%; " alt="" /></p>
